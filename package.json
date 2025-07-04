@@ -1,10 +1,10 @@
 {
-    "name": "olc",
+    "name": "ollama-code",
     "version": "0.1.0",
     "description": "A FLOSS alternative to Claude Code using Ollama for local LLM inference",
     "main": "src/index.js",
     "bin": {
-        "olc": "./bin/ollama-code.js"
+        "ollama-code": "./bin/ollama-code.js"
     },
     "scripts": {
         "start": "node --experimental-json-modules bin/ollama-code.js",
