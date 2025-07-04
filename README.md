@@ -22,12 +22,6 @@ A FLOSS terminal-based AI coding assistant powered by Ollama.
 - Ollama installed and running
 - A code-focused model (codellama recommended)
 
-## Installation
-
-```bash
-npm install -g olc
-```
-
 ## Quick Start
 
 ```bash
